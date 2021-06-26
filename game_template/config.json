@@ -1,0 +1,5 @@
+{
+  "listen_port": 7999,
+  "listen_hostname": "0.0.0.0",
+  "tls_pem_path": "cert.pem"
+}
